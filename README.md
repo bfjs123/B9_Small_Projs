@@ -25,10 +25,10 @@ Stretch goals:
 add a kill switch to the whole contract
 make the contract a utility that can be used by David, Emma and anybody with an address to split Ether between any 2 other addresses of their own choice
 cover potentially bad input data
-Do not:
+Do not: split between more than 2 people
 
-split between more than 2 people
 Remittance
+
 You will create a smart contract named Remittance whereby:
 
 there are three people: Alice, Bob & Carol.
@@ -50,7 +50,10 @@ add a kill switch to the whole contract
 plug a security hole (which one?) by changing one password to the recipient's address
 make the contract a utility that can be used by David, Emma and anybody with an address
 make you, the owner of the contract, take a cut of the Ethers smaller than what it would cost Alice to deploy the same contract herself
+
+
 Rock Paper Scissors
+
 You will create a smart contract named RockPaperScissors whereby:
 
 Alice and Bob can play the classic rock paper scissors game.
